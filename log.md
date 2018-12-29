@@ -5,9 +5,9 @@
 
 **Today's Progress**: Installed Flask and started creating a basic api
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Went through flask tutorial and installed it using virtualenv
 
-**Link to work:** [Calculator App](Not deployed yet)
+**Link to work:** not hosted yet
 
 
 
